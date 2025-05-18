@@ -1,0 +1,9 @@
+file 'IMG_20230901_114844.jpg'
+duration 2
+file 'IMG-20230901-WA0008.jpg'
+duration 2
+file 'IMG-20230901-WA0010.jpg'
+duration 2
+file 'IMG-20230901-WA0022.jpg'
+duration 2
+file 'IMG-20230901-WA0022.jpg'
